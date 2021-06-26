@@ -808,8 +808,12 @@
 	.main_menu_area .navbar.navbar-expand-lg .navbar-brand img + img {
 		max-width: 80%;
 	}
-	.main_menu_two .navbar.navbar-expand-lg .navbar-brand img{
-		max-width: 80%;
+	.logo-img{
+		width: 80px !important;
+		height: 80px !important;
+	}
+	.top_header_area .float-right .h_social li a{
+		line-height: 25px !important;
 	}
 	.middle_menu_three .navbar.navbar-expand-lg .navbar-brand img{
 		max-width: 80%;
